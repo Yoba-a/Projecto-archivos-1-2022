@@ -1,0 +1,15 @@
+digraph G { 
+ordering = out 
+forcelabels=true 
+graph[ranksep=1,margin=0.3  ]; 
+node [shape = plaintext];
+ 1 [ label = <<TABLE color = "black"> 
+<TR>
+<td > mbr tamaño_disco= 6291456</td>
+<td >particion1</td>
+<td >particion2</td>
+<td >particion3</td>
+<td >particion4</td>
+</TR>
+</TABLE>> dir =none color=white style =none]
+}
